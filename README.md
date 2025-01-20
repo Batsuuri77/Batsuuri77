@@ -14,8 +14,7 @@
         and graduated in November, 2024. I specialize in building modern,
         interactive web and mobile applicaitons.
     </p>
-  
-    <h2>Contact with me:</h2>
+    <h3>Contact with me:</h3>
     <p align="left">
     <a href="img/github-light.svg" target="_blank">
         <img align="left" src="img/github-light.svg" width="50" height="50"/>
