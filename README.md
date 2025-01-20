@@ -1,6 +1,6 @@
 ## Hello world! I'm Batsuuri 👋
 
-<div align="center">
+
     <h1>A graduated front-end developer 🙂</h1>
     <p align="left">
         I am <span className="font-bold">BATSUURI BATTSOOJ</span>, a
@@ -25,7 +25,7 @@
     </a>
     </div>
     <h2>Languages and tools:</h2>
-</div>
+
 
 <div>
 <h3 align="center">A passionate and freshly graduated frontend developer 🙂</h3>
