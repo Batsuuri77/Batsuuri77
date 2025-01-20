@@ -2,12 +2,12 @@
 
 <div align="center">
     <h1>A graduated front-end developer 🙂</h1>
-    <p align="right">
+    <p align="left">
         I am <span className="font-bold">BATSUURI BATTSOOJ</span>, a
         formal Business Development Manager who turned into a passionate
         front-end developer settled in Melbourne, Australia 🙂.
     </p>
-    <p align="right">
+    <p align="left">
         I have started my coding journey as a self-learner, then I crafted
         my academic knowledge as gaining master of IT degree (mobile
         application development) from Central Queensland University (CQU)
