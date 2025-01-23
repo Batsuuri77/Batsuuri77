@@ -17,7 +17,7 @@
     <h3>Contact with me:</h3>
     <p align="left">
     <a href="img/github-light.svg" target="_blank">
-        <img align="left" src="img/github-light.svg" width="50" height="50"/>
+        <img align="left" src="img/globe-light.svg" width="50" height="50"/> batsuuri2146@gmail.com
     </a> 
     <a href="https://www.linkedin.com/in/batsuuri-battsooj-b27231b8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bn8%2BWsd03QpSWvUaxp9Rqrg%3D%3D" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="batsuuri battsooj" height="30" width="40"     />
