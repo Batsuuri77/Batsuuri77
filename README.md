@@ -1,5 +1,6 @@
 ## Hello world! I'm Batsuuri 👋
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=batsuuri77" alt="batsuuri77" /></a> </p>
 <div>
     <h1>A passionate and freshly graduated frontend developer 🙂</h1>
     <p align="left">
@@ -30,7 +31,6 @@
             &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
             &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
             &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-            &nbsp;<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
             &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
         </p>
          <p>Backend development: &nbsp;
@@ -55,11 +55,9 @@
     </p>
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=batsuuri77&show_icons=true&locale=en&layout=compact" alt="batsuuri77" /></p>
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=batsuuri77&show_icons=true&locale=en" alt="batsuuri77" /></p>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=batsuuri77&" alt="batsuuri77" /></p>
+<!--     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=batsuuri77&" alt="batsuuri77" /></p> -->
 </div>
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=batsuuri77&label=Profile%20views&color=0e75b6&style=flat" alt="batsuuri77" /> 
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=batsuuri77" alt="batsuuri77" /></a> </p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 </div>
