@@ -20,16 +20,16 @@
             <img align="left" src="img/globe-dark.svg" width="40" height="40"/> batsuuri2146@gmail.com
         </a> 
         &nbsp; <a href="https://www.linkedin.com/in/batsuuri-battsooj-b27231b8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bn8%2BWsd03QpSWvUaxp9Rqrg%3D%3D" target="blank">
-            &nbsp; <img align="center" src="img/linkedin-dark.svg" alt="batsuuri battsooj" height="40" width="40"     />
+            <img align="center" src="img/linkedin-dark.svg" alt="batsuuri battsooj" height="40" width="40"     />
         </a>
     </p>
     <h2>Languages and tools:</h2>
     <p align="left"> 
-        <a href="https://appwrite.io" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> 
-        </a> 
         <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/> 
+        </a> 
+        <a href="https://appwrite.io" target="_blank" rel="noreferrer"> 
+            <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-ar21.svg" alt="appwrite" width="40" height="40"/> &nbsp; 
         </a> 
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
