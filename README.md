@@ -22,7 +22,7 @@
         <table>
   <tr>
     <td style="background-color: white; padding: 10px; border-radius: 8px;">
-      <img align="left" src="img/globe-dark.svg" width="40" height="40" />
+      <img align="left" src="img/globe-light.svg" width="40" height="40" />
       batsuuri2146@gmail.com
     </td>
   </tr>
