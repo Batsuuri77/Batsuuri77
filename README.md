@@ -1,6 +1,6 @@
 ## Hello world! I'm Batsuuri 👋
 
-<p align="left"> 
+<p align="left" background="white"> 
     <img src="https://komarev.com/ghpvc/?username=batsuuri77&label=Profile%20views&color=0e75b6&style=flat" alt="batsuuri77" /> 
 </p>
 <div>
