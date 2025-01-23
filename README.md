@@ -1,6 +1,8 @@
 ## Hello world! I'm Batsuuri 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=batsuuri77" alt="batsuuri77" /></a> </p>
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=batsuuri77&label=Profile%20views&color=0e75b6&style=flat" alt="batsuuri77" /> 
+</p>
 <div>
     <h1>A passionate and freshly graduated frontend developer 🙂</h1>
     <p align="left">
@@ -53,11 +55,9 @@
             &nbsp;<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
          </p>
     </p>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=batsuuri77&show_icons=true&locale=en&layout=compact" alt="batsuuri77" /></p>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=batsuuri77&show_icons=true&locale=en" alt="batsuuri77" /></p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=batsuuri77&show_icons=true&locale=en&layout=compact" alt="batsuuri77" width="200" height="100"/></p>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=batsuuri77&show_icons=true&locale=en" alt="batsuuri77" width="200" height="100"/></p>
 <!--     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=batsuuri77&" alt="batsuuri77" /></p> -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=batsuuri77" alt="batsuuri77" /></a> </p> -->
 </div>
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=batsuuri77&label=Profile%20views&color=0e75b6&style=flat" alt="batsuuri77" /> 
-</p>
 </div>
