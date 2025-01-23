@@ -20,7 +20,7 @@
     <h3>Contact with me:</h3>
     <p align="left">
         <div style="background-color: white; display: inline-block; padding: 10px; border-radius: 8px;">
-           <img align="left" src="img/globe-dark.svg" width="40" height="40"/> batsuuri2146@gmail.com
+           <img align="left" src="img/globe-light.svg" width="40" height="40"/> batsuuri2146@gmail.com
         </div>
         <a>
             <img align="left" src="img/globe-dark.svg" width="40" height="40"/> batsuuri2146@gmail.com
