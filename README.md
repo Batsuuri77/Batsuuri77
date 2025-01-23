@@ -16,12 +16,12 @@
     </p>
     <h3>Contact with me:</h3>
     <p align="left">
-    <a href="/" target="_blank">
-        <img align="left" src="img/globe-dark.svg" width="40" height="40"/> batsuuri2146@gmail.com
-    </a> 
-    <a href="https://www.linkedin.com/in/batsuuri-battsooj-b27231b8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bn8%2BWsd03QpSWvUaxp9Rqrg%3D%3D" target="blank">
-        <img align="center" src="img/linkedin-dark.svg" alt="batsuuri battsooj" height="40" width="40"     />
-    </a>
+        <p>
+            <img align="left" src="img/globe-dark.svg" width="40" height="40"/> batsuuri2146@gmail.com
+        </p> 
+        &nbsp; <a href="https://www.linkedin.com/in/batsuuri-battsooj-b27231b8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bn8%2BWsd03QpSWvUaxp9Rqrg%3D%3D" target="blank">
+            <img align="center" src="img/linkedin-dark.svg" alt="batsuuri battsooj" height="40" width="40"     />
+        </a>
     </p>
     <h2>Languages and tools:</h2>
     <p align="left"> 
