@@ -55,7 +55,7 @@
             &nbsp;<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
          </p>
     </p>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=batsuuri77&show_icons=true&locale=en&layout=compact" alt="batsuuri77" width="400" height="300"/></p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=batsuuri77&show_icons=true&locale=en&layout=compact" alt="batsuuri77" width="400" height="200"/></p>
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=batsuuri77&show_icons=true&locale=en" alt="batsuuri77" width="400" height="300"/></p>
 <!--     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=batsuuri77&" alt="batsuuri77" /></p> -->
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=batsuuri77" alt="batsuuri77" /></a> </p> -->
